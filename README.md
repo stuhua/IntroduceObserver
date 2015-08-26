@@ -4,7 +4,7 @@ Android中的观察者模式实例代码
 
 ## 预览
 
-<img src="/image/show.png"/>
+<img src="show.png"/>
 
 ## 有什么用
 
